@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  recursive-readdir-async: ^1.3.0
+
+dependencies:
+  recursive-readdir-async: 1.3.0
+
+packages:
+
+  /recursive-readdir-async/1.3.0:
+    resolution: {integrity: sha512-7fZyD3/Ol9LwZBYTgE+PzE+Zuru/WxZxdXaZRaNZNPbdnvMDSvK8KLA51JDCoe8zDBkHHyLb/uutJ2RdJbbt4A==}
+    engines: {node: '>=7.6'}
+    dev: false
